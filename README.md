@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FELIIPE505/FELIIPE505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Felipe Fernandes
 
-Here are some ideas to get you started:
+**Estudante de Engenharia de Software · UFG · Goiânia, Brasil**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construindo base sólida em algoritmos, backend e engenharia de software.
+Objetivo de longo prazo: trabalhar internacionalmente na área de tecnologia.
+
+---
+
+### Tecnologias que uso
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### Atualmente
+
+- 🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
+- 🌏 Aprendendo Mandarim
+- 🌏 Inglês C1
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/felipe-fernandes-01208b247)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fp.szza07?igsh=a280bHM2d3V2dHlq)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/feliipe505)
+
+</div>
