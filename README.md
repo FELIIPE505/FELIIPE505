@@ -2,10 +2,7 @@
 
 # Felipe Fernandes
 
-**Welcome to my profile, I'm a Software Engineering student at the Federal University of Goiás, Brazil**
-![English](https://img.shields.io/badge/English-C1_Advanced-2E86AB?style=for-the-badge&logo=googletranslate&logoColor=white)
-![English](https://img.shields.io/badge/English-C1_Advanced-2E86AB?style=for-the-badge)
-![Mandarin](https://img.shields.io/badge/Mandarin-HSK_1-DE2910?style=for-the-badge)
+**Welcome to my profile, I'm a Software Engineering student at the Federal University of Goiás, Brazil** <br>
 ---
 
 ### Tech & tools preferences
@@ -20,9 +17,7 @@
 
 ### Currently
 
-- 🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
-- 🌏 Aprendendo Mandarim <br>
-🌏 Inglês C1
+🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
 
 ---
 
@@ -32,4 +27,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fp.szza07?igsh=a280bHM2d3V2dHlq)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/feliipe505)
 
+--- 
+
+### Languages
+![English](https://img.shields.io/badge/English-C1_Advanced-2E86AB?style=for-the-badge)
+![Mandarin](https://img.shields.io/badge/Mandarin-HSK_1-DE2910?style=for-the-badge)
 </div>
