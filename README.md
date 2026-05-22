@@ -2,7 +2,7 @@
 
 # Felipe Fernandes
 
-**Welcome to my profile, I'm a Software Engineering student at the Federal University of Goiás, Brazil** <br>
+*Welcome to my profile, I'm a Software Engineering student at the Federal University of Goiás, Brazil* <br>
 ---
 
 ### Tech & tools preferences
