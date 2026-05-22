@@ -3,7 +3,9 @@
 # Felipe Fernandes
 
 **Welcome to my profile, I'm a Software Engineering student at the Federal University of Goiás, Brazil**
-
+![English](https://img.shields.io/badge/English-C1_Advanced-2E86AB?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-C1_Advanced-2E86AB?style=for-the-badge)
+![Mandarin](https://img.shields.io/badge/Mandarin-HSK_1-DE2910?style=for-the-badge)
 ---
 
 ### Tech & tools preferences
@@ -18,9 +20,9 @@
 
 ### Currently
 
--🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
--🌏 Aprendendo Mandarim
--🌏 Inglês C1
+- 🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
+- 🌏 Aprendendo Mandarim <br>
+🌏 Inglês C1
 
 ---
 
