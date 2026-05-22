@@ -8,8 +8,8 @@
 
 ### Tech & tools preferences
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,9 +18,9 @@
 
 ### Currently
 
- 🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
- 🌏 Aprendendo Mandarim
- 🌏 Inglês C1
+-🏗️ Projeto Integrador — Sistema de gestão de lojistas (Flamboyant Shopping)
+-🌏 Aprendendo Mandarim
+-🌏 Inglês C1
 
 ---
 
