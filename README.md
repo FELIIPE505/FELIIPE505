@@ -71,10 +71,10 @@ A commercial proposal management system built for a shopping mall's commercial s
 
 I'm open to backend and full-stack opportunities, collaborative projects, and conversations about software engineering, REST APIs, databases, and scalable systems.
 
-- [LinkedIn]([https://www.linkedin.com/in/SEU_USUARIO/](https://www.linkedin.com/in/felipe-fernandes-01208b247))
+- [LinkedIn](https://www.linkedin.com/in/felipe-fernandes-01208b247/)
 - [GitHub](https://github.com/FELIIPE505)
 - [Instagram](https://instagram.com/fp.szza07)
-- [Discord]([https://discord.com/users/SEU_USER_ID](https://discord.com/users/532933668835164172))
+- [Discord](https://discord.com/users/532933668835164172)
 
 ---
 
